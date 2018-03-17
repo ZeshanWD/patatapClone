@@ -1,4 +1,4 @@
-# patatapClone
+# PatatapClone
 
 # What I have Learned
 <ul>
